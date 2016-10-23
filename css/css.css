@@ -1,0 +1,122 @@
+
+
+	@import 'https://fonts.googleapis.com/css?family=Orbitron';
+	@import 'https://fonts.googleapis.com/css?family=Prompt';
+
+
+	
+
+	.navbar{
+
+			
+			background: #494D47;
+			color: #fff;
+			font-family: 'Orbitron', sans-serif;
+	}
+
+
+
+
+	.mainu{
+
+		background: #D52B2B;
+		border: 3px solid #000; 
+		font-family: 'Prompt', sans-serif;
+		color: #fff;
+
+
+     }
+
+	.titulo{
+
+		color: #fff;
+		font-family: 'Orbitron', sans-serif;
+		
+		font-size: 165%; 
+
+	}
+
+
+	.titulo1{
+
+		background: #D52B2B;
+		border: 3px solid #000; 
+		font-family: 'Orbitron', sans-serif;
+		color: #fff;
+
+	}
+	.titulo2{
+
+		background: #D52B2B; 
+		border: 3px solid #000;
+		font-family: 'Orbitron', sans-serif;
+		color: #fff;
+	}
+	.titulo3{
+
+		background: #D52B2B; 
+		border: 3px solid #000;
+		font-family: 'Orbitron', sans-serif;
+		color: #fff;
+	}
+
+	.caja1{
+	
+			
+			
+			background: #494D47;
+			color: #fff;
+			font-family: 'Prompt', sans-serif;
+			border: 3px solid #000;
+
+
+	}
+
+	.caja2{
+			 
+		
+			background: #494D47;
+			color: #fff;
+			font-family: 'Prompt', sans-serif;
+			
+			border: 3px solid #000;
+	}
+
+
+	.caja3{
+	
+			
+			
+			background: #494D47;
+			color: #fff;
+			font-family: 'Prompt', sans-serif;
+			
+			border: 3px solid #000;
+
+	}
+
+	.final{
+
+		background: #494D47;
+		color: #fff;
+
+}
+
+
+h2{
+
+		color: #fff;
+		font-family: 'Orbitron', sans-serif;
+		background: #494D47;
+		
+}
+
+
+h1{
+
+		color: #fff;
+		font-family: 'Orbitron', sans-serif;
+		background: #D52B2B
+	}
+
+	
