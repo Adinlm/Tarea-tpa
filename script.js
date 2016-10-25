@@ -12,9 +12,9 @@ var funcion = function (letra) {
 
 
 			if (firstLetter === 'm') {
-  			  final="| GoodBye "+letra[i]+" |" ;
+  			  final="| No afiliado a "+letra[i]+" |" ;
   			} else {
-  			  final= "| Hello "+letra[i]+" | ";
+  			  final= "| Afiliado a "+letra[i]+" | ";
   			}
  document.write(final);
 
